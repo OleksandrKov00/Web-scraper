@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I'm Oleksandr 👋
 
-<!--
-**OleksandrKov00/OleksandrKov00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst with Python, SQL, Pandas and data visualization skills.
 
-Here are some ideas to get you started:
+🔹 Skills
+- Python
+- Pandas
+- NumPy
+- SQL
+- Matplotlib
+- Power BI
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Featured Projects
+
+📌 Data Analyst Job Market Analysis
+Python EDA project analyzing thousand modern data analyst job postings on websites in the US, Poland, and Ukraine
+
+📌 Power BI Dashboards
+
+Interactive dashboard built in Power BI:
+KPI analysis of Ski resorts around the world:
+
+Interactive dashboard built in Power BI:
+Retail store key indicators analysis:
+
+📫 Contact
+Telegram: @Olxndrkov
+Email: kovalyshynoleksandr@gmail.com
+LinkedIn: linkedin.com/in/kovalyshyn-oleksandr
