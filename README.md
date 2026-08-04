@@ -3,9 +3,9 @@ Hi, I'm Oleksandr 👋
 Junior Data Analyst with Python, SQL, Pandas and data visualization skills.
 
 🔹 Skills
-- SQL            - Pandas 
-- Python         - Matplotlib
-- Excel          - NumPy
+- SQL          
+- Python | Pandas |  NumPy | Matplotlib
+- Excel       
 - Power BI      
 
 📊 Featured Projects
