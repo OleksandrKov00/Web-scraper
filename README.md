@@ -9,9 +9,7 @@ The scraper extracts key job-market information such as salary, required experie
 
 The project currently includes parsers for:
 
-Builtin
-Djinni
-JustJoin.it
+Builtin │ Djinni │ JustJoin.it
 
 ⚙️ How It Works
 
@@ -56,10 +54,9 @@ xlsx_writer.py combines the output from all parsers and exports the collected da
 
 The resulting dataset contains up to 1,000 Data Analyst vacancies from job boards covering markets such as:
 
-🇺🇦 Ukraine
-🇵🇱 Poland
-🇺🇸 United States
-🇩🇪 Germany
+🇺🇦 Ukraine          🇵🇱 Poland
+
+🇺🇸 United States    🇩🇪 Germany
 
 📦 Collected Data
 
