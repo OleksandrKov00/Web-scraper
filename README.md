@@ -1,10 +1,79 @@
 
 📌 Custom Web Scraper
 
-Here are Python scripts designed to parse html code of job-posting websites & write down data, ending up with dataset describing Data Analyst vacancies: salary range, years of experience, skills required, work arrangement, etc.
+Python web scraper designed to collect and structure Data Analyst job postings from multiple job boards for further analysis.
 
-.py files Builtin_parser, djinni_parser, justjoin.it_parser use such libraries as requests, BeautifulSoup, time, etc. to extract relevant data from Data Analyst job postings for further analysis
+The scraper extracts key job-market information such as salary, required experience, skills, work arrangement, location, etc. and combines the results into a single dataset.
 
-.py file xlsx_writer combines all those parsers and writes down all the data into xlsx table. Dataset describes up to 1k Data Analyst job vacancies from popular job-posting websites in Ukraine, Poland, US, Germany
+🌐 Data Sources
 
-The resulting dataset is further explored using such libraries as Pandas, Numpy, Matplotlib, etc.
+The project currently includes parsers for:
+
+Builtin
+Djinni
+JustJoin.it
+
+⚙️ How It Works
+Job Boards
+    │
+    ├── Builtin parser
+    ├── Djinni parser
+    └── JustJoin.it parser
+            │
+            ▼
+      Data Extraction
+            │
+            ▼
+       XLSX Writer
+            │
+            ▼
+      Combined Dataset
+            │
+            ▼
+       EDA & Analysis
+
+
+📊 Data Aggregation
+
+xlsx_writer.py combines the output from all parsers and exports the collected data into an XLSX dataset.
+
+The resulting dataset contains up to 1,000 Data Analyst vacancies from job boards covering markets such as:
+
+🇺🇦 Ukraine
+🇵🇱 Poland
+🇺🇸 United States
+🇩🇪 Germany
+
+📦 Collected Data
+
+Depending on the source, the scraper collects information including:
+
+Job title
+Salary range
+Average salary
+Years of experience
+Required skills
+Work arrangement
+Location
+Region
+English level
+Job posting URL
+
+🛠️ Technologies
+Python
+Requests — HTTP requests
+BeautifulSoup — HTML parsing
+Pandas — data processing
+OpenPyXL — XLSX generation
+Time — request timing and scraping control
+📈 Further Analysis
+
+The generated dataset is used as the foundation for a separate Exploratory Data Analysis (EDA) project using:
+
+Pandas
+NumPy
+Matplotlib
+Seaborn
+SciPy
+
+The analysis e
