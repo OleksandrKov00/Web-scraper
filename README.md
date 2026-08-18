@@ -62,32 +62,33 @@ The resulting dataset contains up to 1,000 Data Analyst vacancies from job board
 
 Depending on the source, the scraper collects information including:
 
-Job title
-Salary range
-Average salary
-Years of experience
-Required skills
-Work arrangement
-Location
-Region
-English level
-Job posting URL
+•Job title
 
-🛠️ Technologies
-Python
-Requests — HTTP requests
-BeautifulSoup — HTML parsing
-Pandas — data processing
-OpenPyXL — XLSX generation
-Time — request timing and scraping control
+•Salary range
+
+•Average salary
+
+•Years of experience
+
+•Required skills
+
+•Work arrangement
+
+•Location
+
+•Region
+
+•English level
+
+•Job posting URL
+
+🛠️ Libraries
+
+Requests │ BeautifulSoup │ time │ xlsxwriter │ urllib.parse │ re
+
 📈 Further Analysis
 
-The generated dataset is used as the foundation for a separate Exploratory Data Analysis (EDA) project using:
+The generated dataset is used as the foundation for EDA project using:
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
-SciPy
+Pandas │ NumPy │ Matplotlib │ Seaborn │ SciPy
 
-The analysis e
