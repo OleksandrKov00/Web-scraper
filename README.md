@@ -14,22 +14,39 @@ Djinni
 JustJoin.it
 
 ⚙️ How It Works
+
 Job Boards
+
     │
+    
     ├── Builtin parser
+    
     ├── Djinni parser
+    
     └── JustJoin.it parser
+    
             │
+            
             ▼
+            
       Data Extraction
+      
             │
+            
             ▼
+            
        XLSX Writer
+       
             │
+            
             ▼
+            
       Combined Dataset
+      
             │
+            
             ▼
+            
        EDA & Analysis
 
 
