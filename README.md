@@ -3,7 +3,7 @@
 
 Python web scraper designed to collect and structure Data Analyst job postings from multiple job boards for further analysis.
 
-The scraper extracts key job-market information such as salary, required experience, skills, work arrangement, location, etc. and combines the results into a single dataset.
+The scraper extracts key job-market information and combines the results into a single dataset.
 
 🌐 Data Sources
 
