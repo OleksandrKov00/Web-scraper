@@ -52,7 +52,7 @@ Job Boards
 
 xlsx_writer.py combines the output from all parsers and exports the collected data into an XLSX dataset.
 
-The resulting dataset contains up to 1,000 Data Analyst vacancies from job boards covering markets such as:
+The resulting dataset contains up to 1,000 Data Analyst vacancies from job boards covering markets:
 
 🇺🇦 Ukraine          🇵🇱 Poland
 
