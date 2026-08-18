@@ -66,8 +66,6 @@ Depending on the source, the scraper collects information including:
 
 • Salary range
 
-• Average salary
-
 • Years of experience
 
 • Required skills
@@ -79,6 +77,8 @@ Depending on the source, the scraper collects information including:
 • Region
 
 • English level
+
+• Source
 
 • Job posting URL
 
