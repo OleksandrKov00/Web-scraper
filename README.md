@@ -62,25 +62,25 @@ The resulting dataset contains up to 1,000 Data Analyst vacancies from job board
 
 Depending on the source, the scraper collects information including:
 
-•Job title
+• Job title
 
-•Salary range
+• Salary range
 
-•Average salary
+• Average salary
 
-•Years of experience
+• Years of experience
 
-•Required skills
+• Required skills
 
-•Work arrangement
+• Work arrangement
 
-•Location
+• Location
 
-•Region
+• Region
 
-•English level
+• English level
 
-•Job posting URL
+• Job posting URL
 
 🛠️ Libraries
 
